@@ -1,0 +1,7 @@
+C:\Users\Alex\Documents\Electiva 2(Devops)\Hola mundo\Hola mundo\bin\Debug\Hola mundo.exe.config
+C:\Users\Alex\Documents\Electiva 2(Devops)\Hola mundo\Hola mundo\bin\Debug\Hola mundo.exe
+C:\Users\Alex\Documents\Electiva 2(Devops)\Hola mundo\Hola mundo\bin\Debug\Hola mundo.pdb
+C:\Users\Alex\Documents\Electiva 2(Devops)\Hola mundo\Hola mundo\obj\Debug\Hola mundo.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\Electiva 2(Devops)\Hola mundo\Hola mundo\obj\Debug\Hola mundo.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Electiva 2(Devops)\Hola mundo\Hola mundo\obj\Debug\Hola mundo.exe
+C:\Users\Alex\Documents\Electiva 2(Devops)\Hola mundo\Hola mundo\obj\Debug\Hola mundo.pdb
